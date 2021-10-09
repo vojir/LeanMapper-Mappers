@@ -10,6 +10,7 @@
             "email": "stanislav.vojir@gmail.com",
             "role": "Developer"
         }
+    ],
     "require": {
         "php": ">=7.2",
         "tharos/leanmapper": "^4.0"
